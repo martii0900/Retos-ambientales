@@ -1,4 +1,4 @@
-#Hoy en día, todos sabemos lo crucial que es cuidar de nuestro entorno y proteger el medioambiente
+Hoy en día, todos sabemos lo crucial que es cuidar de nuestro entorno y proteger el medioambiente
 para asegurar un futuro sostenible para las generaciones venideras. La responsabilidad de construir ese
 futuro depende de cada uno de nosotros, ya que, aunque los cambios puedan parecer pequeños, **cada
 acción tiene un gran impacto a nivel global**. Por eso, queremos compartir algunas de las medidas que
